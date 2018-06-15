@@ -3,13 +3,13 @@ Explore your wechat using wxpy
 
 ## Dependencies
 - python 3.6
-- jieba  
+- [jieba](https://github.com/fxsjy/jieba)  
 - matplotlib  
 - numpy  
-- pandas  
+- [pandas](https://github.com/pandas-dev/pandas)  
 - scipy  
-- wordcloud  
-- wxpy  
+- [wordcloud](https://github.com/fyuanfen/wordcloud)  
+- [wxpy](https://github.com/youfou/wxpy)  
 
 Using `pip` to install what you need.
 
